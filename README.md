@@ -36,5 +36,7 @@ Use filters and drill-down capabilities to analyze specific data points.*
 
 **Dashboard Preview**
 
+https://public.tableau.com/views/Book1_17384127436930/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 <img width="1440" alt="Screenshot 2025-02-01 at 8 30 59 pm" src="https://github.com/user-attachments/assets/f4af68df-23ac-43f3-899a-0cc7cabaf41c" />
 
